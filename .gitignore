@@ -1,0 +1,7 @@
+# Cache
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.cachefile
